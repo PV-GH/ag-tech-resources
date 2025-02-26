@@ -1,4 +1,4 @@
-A curated list of technology companies, resources, and tools in the agricultural field.
+An (updated &) curated list of technology companies, resources, and tools in the agricultural field.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/marceloalves/awesome-agtech/pulls)
 
@@ -11,6 +11,10 @@ A curated list of technology companies, resources, and tools in the agricultural
 ## Open Data
 * [Data.gov](https://catalog.data.gov/dataset?groups=agriculture8571#topic=food_navigation) - Agricultural open data from the US Government.
 * [Open Ag Data Alliance](https://github.com/oada) - The Open Ag Data Alliance is an open project designed to bring interoperability, security, and privacy to agricultural data.
+* [OpenSourceAg](https://github.com/geezacoleman/OpenSourceAgriculture) - Collating all open-source datasets, software tools and deployment platforms related to open-source agriculture.
+* [OSFarm Lexicon](https://lexicon.osfarm.org/) - Lexicon is the repo where OSFarm gathers and normalizes all reference data to feed lexicon schema of Ekylibre and Lexicon API project.
+* [Triple Performance](https://wiki.tripleperformance.fr/wiki/Triple_Performance) - 6500 pages with free access to independent resources, feedback and the possibility of going further by asking questions and exchanging with other farmers!
+* 
 
 ## Software
 
@@ -20,6 +24,7 @@ A curated list of technology companies, resources, and tools in the agricultural
 * [farmOS](https://github.com/farmOS/farmOS) - farmOS is a web-based application for farm management, planning, and record keeping.
 * [ISOBlue](https://www.isoblue.org/) - ISOBlue is a open source solution for connected farm machinery.
 * [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
+* [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - An open-source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 
 #### Proprietary
 * [Agrible](https://www.agrible.com/) - Agrible provides realtime data sharing between growers, retailers and processors.
@@ -30,3 +35,4 @@ A curated list of technology companies, resources, and tools in the agricultural
 * [Sirrus](https://www.sstsoftware.com/Sirrus.html) - Sirrus is an iOS app that helps agronomists and farmers collaborate on farming decisions by making field data accessible and easy to collect. 
 * [Summit](https://www.sstsoftware.com/SSTSummit.html) -  Summit is precision ag software built on the agX platform for processing of raw farm data into valuable information reports.
 * [Tend](https://www.tend.ag/) - Tend is a web app for managing diversified organic farms.
+* [AgroMonitoring](https://agromonitoring.com/) - Satellite and weather data for precision farming in fast and easy ways (api available)
